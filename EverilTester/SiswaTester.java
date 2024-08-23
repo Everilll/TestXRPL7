@@ -24,11 +24,11 @@ public class SiswaTester {
         Siswa Gilam = new Siswa(19,"Gilam",90);
         Siswa Kinza = new Siswa(15,"Kinza",90);
 
-        // Burhan.print();
-        // Ibra.print();
-        // Melvin.print();
-        // Gilam.print();
-        // Kinza.print();
+        Burhan.print();
+        Ibra.print();
+        Melvin.print();
+        Gilam.print();
+        Kinza.print();
         input.close();
     }
 }
