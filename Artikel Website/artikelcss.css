@@ -1,0 +1,29 @@
+h1 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+}
+
+h2 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+div {
+    width: 80%;
+    margin: 0 auto;
+    height: 100px;
+}        
+
+.bgpubg{
+    height: 40px;
+    background-image: url(Asset/Image/49577-update-pubg-mobile-30.jpg);
+}
+
+.bgzuxxy{
+    height: 700px;
+    background-image: url(Asset/Image/Zuxxy.webp);
+}
+
+.gradient {
+    height: 40px;
+    background: linear-gradient(to right,black,red,black);
+}
